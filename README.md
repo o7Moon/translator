@@ -7,5 +7,5 @@ this makes a lot of assumptions about the input text and is probably really easy
 
 Example:
 
-- `$ printf 'example plaintext' | translator` outputs `anozbva tpaensotp`
-- `$ printf 'anozbva tpaensotp' | translator -d` outputs `example plaintext`
+- `$ printf 'example plaintext' | translator` outputs `ijozdbi khaonvycz`
+- `$ printf 'ijozdbi khaonvycz' | translator -d` outputs `example plaintext`
